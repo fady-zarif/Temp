@@ -1,0 +1,3 @@
+[submodule "mqttoverintent"]
+	path = mqttoverintent
+	url = https://bitbucket.resideo.com/scm/ts/mqttoverintent.git
